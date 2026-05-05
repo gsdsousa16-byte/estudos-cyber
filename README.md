@@ -1,6 +1,6 @@
 # estudos-cyber
 
-Repositório documentando minha jornada de aprendizado em cyber.
+Repositório documentando minha jornada de aprendizado em cyber...
 
 ## O que estou aprendendo
 - Como a internet funciona
